@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am cybersecurity and AI enthusiast. I also work as a part-time freelancer. if you have some project that might interest me, feel free to contact
 
 <!--
 **Atomnp/Atomnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
