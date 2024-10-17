@@ -1,4 +1,4 @@
-**Hello, I am Full stack developer. I like to create AI based systems. I also work as a part-time freelancer. if you have some project that might interest me, feel free to contact me on my email**
+**Hello, I am Full stack Machine Learning Engineer. I like to create AI based systems. I am interested to work on projects that require research and is impactful to the community. if you have some project that might interest me, feel free to contact me on my email**
 
 <!--
 **Atomnp/Atomnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
