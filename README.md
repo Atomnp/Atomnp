@@ -4,6 +4,10 @@ For me, computer science is more than syntax; it’s philosophy written in bits 
 I enjoy building systems, breaking patterns, and finding elegance in algorithms.
 Always exploring, from the smallest atom of an idea to the biggest questions of computation.
 
+I firmly believe Artificial General Intelligence is possible. To those who doubt it: think about how human intelligence came to be. Isn’t it the product of evolution? Nature, through randomness, created something capable of thought, reflection, and consciousness.
+
+Now, consider this: if randomness can produce intelligence, could intentionality and design be any less powerful? We are, after all, just clusters of atoms. If nature could generate intelligence from chance, surely we can consciously create it too. The real question is not whether we can create intelligence, but what we choose to do with it.
+
 <!--
 **Atomnp/Atomnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
