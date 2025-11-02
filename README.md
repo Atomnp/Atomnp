@@ -1,4 +1,8 @@
-**Hello, I am Full stack Machine Learning Engineer. I like to create AI based systems. I am interested to work on projects that require research and is impactful to the community. if you have some project that might interest me, feel free to contact me on my email**
+I like to think about code, logic, and the strange beauty behind how things work.
+For me, computer science is more than syntax; it’s philosophy written in bits and functions.
+
+I enjoy building systems, breaking patterns, and finding elegance in algorithms.
+Always exploring, from the smallest atom of an idea to the biggest questions of computation.
 
 <!--
 **Atomnp/Atomnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 [![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomnp&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
